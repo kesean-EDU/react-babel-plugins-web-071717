@@ -1,6 +1,6 @@
 # React Babel Plugins
 
-##  Overview
+## Overview
 
 We'll explain what Babel does and how to use it for React development.
 
